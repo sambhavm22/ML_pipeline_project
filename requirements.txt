@@ -1,0 +1,6 @@
+# external requirements
+pandas 
+numpy
+seaborn
+scikit-learn
+Flask
